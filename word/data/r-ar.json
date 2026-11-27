@@ -1,0 +1,100 @@
+{
+ "target": {
+  "letter": "ar",
+  "name": "ar",
+  "sound": "../vowels/g-ar.mp3",
+  "letters": [
+   "ar"
+  ],
+  "noun": "letters"
+ },
+ "words": [
+  {
+   "word": "car",
+   "segs": [
+    "c",
+    "ar"
+   ],
+   "def": "A car has four wheels and an engine. People drive it to go places.",
+   "ask": [
+    "Where would you like to go in a car ?"
+   ],
+   "sentence": "My dad got a new car.",
+   "hasWriteImg": true,
+   "adultDef": "A car is a machine with four wheels and an engine that people ride in. Mum or Dad might drive you to school in the car."
+  },
+  {
+   "word": "mark",
+   "segs": [
+    "m",
+    "ar",
+    "k"
+   ],
+   "def": "A mark is a spot or stain on something, like a mark on your T-shirt.",
+   "ask": [
+    "Have you ever got a mark on your clothes?"
+   ],
+   "sentence": "There is a red mark on my T-shirt.",
+   "hasWriteImg": true,
+   "adultDef": "A mark is a small line, spot or sign on something – like a pen mark on paper, a tick, or a dirty spot on your T-shirt. A question mark (?) is a mark too."
+  },
+  {
+   "word": "art",
+   "segs": [
+    "ar",
+    "t"
+   ],
+   "def": "Art is making pictures with paint, pencils or clay.",
+   "ask": [
+    "What kind of art do you like to make – drawing, painting, or making things?"
+   ],
+   "sentence": "I love to make art.",
+   "hasWriteImg": true,
+   "adultDef": "Art is something you make to show an idea or a feeling – like a drawing, a painting or a clay model. People who make art are called artists."
+  },
+  {
+   "word": "far",
+   "segs": [
+    "f",
+    "ar"
+   ],
+   "def": "Far means a long way away, not close.",
+   "ask": [
+    "Name a place that is far from your home. How do you get there?"
+   ],
+   "sentence": "My friend's house is far away.",
+   "hasWriteImg": true,
+   "adultDef": "Far means a long way away. \"The moon is far away.\" The opposite of far is near ."
+  },
+  {
+   "word": "hard",
+   "segs": [
+    "h",
+    "ar",
+    "d"
+   ],
+   "def": "Hard can mean not soft, like a rock, or not easy, like a tricky puzzle.",
+   "ask": [
+    "What is something that was hard for you at first, but now you can do it?"
+   ],
+   "sentence": "Sometimes maths can be hard.",
+   "hasWriteImg": true,
+   "adultDef": "Hard means difficult, not easy – \"This puzzle is hard.\" It can also mean firm and solid, like a rock."
+  },
+  {
+   "word": "part",
+   "segs": [
+    "p",
+    "ar",
+    "t"
+   ],
+   "def": "A part is a piece of something, like one part of a puzzle.",
+   "ask": [
+    "What is your favourite part of the day?"
+   ],
+   "sentence": "I found the missing part of the puzzle.",
+   "hasWriteImg": true,
+   "adultDef": "A part is one piece of something bigger. A puzzle piece is a part of the puzzle. Your arm is a part of your body."
+  }
+ ]
+}

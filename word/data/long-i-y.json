@@ -1,0 +1,97 @@
+{
+ "target": {
+  "letter": "y",
+  "name": "long i",
+  "sound": "../vowels/g-long-i.mp3"
+ },
+ "words": [
+  {
+   "word": "my",
+   "segs": [
+    "m",
+    "y"
+   ],
+   "def": "My shows that something belongs to you, like my dog or my bag.",
+   "ask": [
+    "What is something that belongs to you?"
+   ],
+   "sentence": "My dog loves to play at the park.",
+   "hasWriteImg": true,
+   "adultDef": "My is a word we use when something belongs to us – \"my teddy\", \"my mum\", \"my turn\". If it is yours, you can say it is my thing!"
+  },
+  {
+   "word": "by",
+   "segs": [
+    "b",
+    "y"
+   ],
+   "def": "By means next to or near, like standing by the door.",
+   "ask": [
+    "Who sits by you at school or at dinner?"
+   ],
+   "sentence": "We walked by the beach on the way home.",
+   "hasWriteImg": true,
+   "adultDef": "By means next to or close to – \"the dog sat by the door\". It also means going past – \"a bus went by\". And a book is written by the person who wrote it."
+  },
+  {
+   "word": "fly",
+   "segs": [
+    "f",
+    "l",
+    "y"
+   ],
+   "def": "To fly is to move through the air, like a bird or a plane. A fly is also a tiny buzzing insect.",
+   "ask": [
+    "Name three things that can fly . 5. Can you make a sentence with the word fly ?"
+   ],
+   "sentence": "Look at the magpie fly up into the tree.",
+   "hasWriteImg": true,
+   "adultDef": "To fly means to move through the air – birds, planes and kites can fly. A fly is also a small buzzing insect that loves our barbecues!"
+  },
+  {
+   "word": "cry",
+   "segs": [
+    "c",
+    "r",
+    "y"
+   ],
+   "def": "To cry is to have tears come out of your eyes, usually because you feel sad or hurt.",
+   "ask": [
+    "What makes a baby cry ?"
+   ],
+   "sentence": "The baby started to cry when he dropped his dummy.",
+   "hasWriteImg": true,
+   "adultDef": "To cry means tears come out of your eyes, usually when you are sad or hurt. Babies cry when they are hungry or tired. Some people even cry when they are very happy!"
+  },
+  {
+   "word": "try",
+   "segs": [
+    "t",
+    "r",
+    "y"
+   ],
+   "def": "To try is to have a go at something, even if it is hard.",
+   "ask": [
+    "What is something new you would like to try ?"
+   ],
+   "sentence": "I am going to try to kick a goal at footy.",
+   "hasWriteImg": true,
+   "adultDef": "Try means to have a go at something – \"I will try to ride my bike with no training wheels.\" When you try your best, you are being brave, even if it does not work the first time."
+  },
+  {
+   "word": "sky",
+   "segs": [
+    "s",
+    "k",
+    "y"
+   ],
+   "def": "The sky is the big space above us, where we see the sun, clouds and stars.",
+   "ask": [
+    "What can you see in the sky ?"
+   ],
+   "sentence": "The sky is blue and sunny today.",
+   "hasWriteImg": true,
+   "adultDef": "The sky is the space above us when we look up outside. In the day it can be blue with clouds; at night it is dark with the moon and stars."
+  }
+ ]
+}

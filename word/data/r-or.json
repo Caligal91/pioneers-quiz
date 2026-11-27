@@ -1,0 +1,103 @@
+{
+ "target": {
+  "letter": "or",
+  "name": "or",
+  "sound": "../vowels/g-or.mp3",
+  "letters": [
+   "or"
+  ],
+  "noun": "letters"
+ },
+ "words": [
+  {
+   "word": "fork",
+   "segs": [
+    "f",
+    "or",
+    "k"
+   ],
+   "def": "A fork is a tool with pointy prongs. We use it to pick up our food.",
+   "ask": [
+    "What rhymes with fork ?"
+   ],
+   "sentence": "I need a fork to eat my pasta.",
+   "hasWriteImg": true,
+   "adultDef": "A tool with long points (prongs) that we use to pick up food and eat it."
+  },
+  {
+   "word": "for",
+   "segs": [
+    "f",
+    "or"
+   ],
+   "def": "For shows who something is meant to go to, like a present for Mum.",
+   "ask": [
+    "Can you think of a word that sounds the same but is spelt differently?"
+   ],
+   "sentence": "This card is for you.",
+   "hasWriteImg": true,
+   "adultDef": "A little word that tells us who something is meant to go to, or why – \"This present is for you.\""
+  },
+  {
+   "word": "corn",
+   "segs": [
+    "c",
+    "or",
+    "n"
+   ],
+   "def": "Corn is a yellow food that grows on tall plants. We can eat it on the cob.",
+   "ask": [
+    "What rhymes with corn ?"
+   ],
+   "sentence": "We had corn on the cob at the barbecue.",
+   "hasWriteImg": true,
+   "adultDef": "A tall plant with rows of yellow seeds that we eat – like corn on the cob, or popcorn!"
+  },
+  {
+   "word": "cord",
+   "segs": [
+    "c",
+    "or",
+    "d"
+   ],
+   "def": "A cord is a thick piece of string or wire, like the cord on a phone charger.",
+   "ask": [
+    "What could you tie up with a cord ?"
+   ],
+   "sentence": "We tied the tent to the tree with a cord.",
+   "hasWriteImg": true,
+   "adultDef": "A thick string, like a thin rope, that we use to tie things up. The wire on a lamp or a TV is called a cord too."
+  },
+  {
+   "word": "sort",
+   "segs": [
+    "s",
+    "or",
+    "t"
+   ],
+   "def": "To sort is to put things into groups, like sorting socks into pairs.",
+   "ask": [
+    "Can you sort these into two groups: apple, car, banana, bus?"
+   ],
+   "sentence": "Can you sort the socks into pairs?",
+   "hasWriteImg": true,
+   "adultDef": "To put things into groups that go together – like sorting the washing into socks and shirts."
+  },
+  {
+   "word": "storm",
+   "segs": [
+    "s",
+    "t",
+    "or",
+    "m"
+   ],
+   "def": "A storm has strong wind, thunder and lots of rain.",
+   "ask": [
+    "What can you see and hear in a storm ?"
+   ],
+   "sentence": "The storm made the lights go out.",
+   "hasWriteImg": true,
+   "adultDef": "Very wild weather with strong wind and heavy rain, and sometimes thunder and lightning."
+  }
+ ]
+}

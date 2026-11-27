@@ -1,0 +1,102 @@
+{
+ "target": {
+  "letter": "ur",
+  "name": "er",
+  "sound": "../vowels/g-ur.mp3",
+  "letters": [
+   "ur"
+  ],
+  "noun": "letters"
+ },
+ "words": [
+  {
+   "word": "turn",
+   "segs": [
+    "t",
+    "ur",
+    "n"
+   ],
+   "def": "To turn is to move around, or it is your go in a game: it is my turn!",
+   "ask": [
+    "What else can you turn ?"
+   ],
+   "sentence": "It is your turn to roll the dice.",
+   "hasWriteImg": true,
+   "adultDef": "To go round, or to change the way you are facing. It also means your go in a game: \"It's your turn!\""
+  },
+  {
+   "word": "burn",
+   "segs": [
+    "b",
+    "ur",
+    "n"
+   ],
+   "def": "To burn is to be hurt by something very hot, like fire or a hot pan.",
+   "ask": [
+    "What rhymes with burn ?"
+   ],
+   "sentence": "Be careful – the hot pan can burn you.",
+   "hasWriteImg": true,
+   "adultDef": "When fire or something very hot hurts your skin, or makes food go black."
+  },
+  {
+   "word": "hurt",
+   "segs": [
+    "h",
+    "ur",
+    "t"
+   ],
+   "def": "Hurt means something is sore, like when you fall over and hurt your knee.",
+   "ask": [
+    "What can you do to help a friend who is hurt ?"
+   ],
+   "sentence": "I hurt my knee playing footy.",
+   "hasWriteImg": true,
+   "adultDef": "To feel pain – like when you fall over and scrape your knee."
+  },
+  {
+   "word": "surf",
+   "segs": [
+    "s",
+    "ur",
+    "f"
+   ],
+   "def": "To surf is to ride on a wave on a board.",
+   "ask": [
+    "Have you been to the beach?"
+   ],
+   "sentence": "We swam in the surf at the beach.",
+   "hasWriteImg": true,
+   "adultDef": "The waves as they roll in onto the beach. To surf is to ride a wave, often on a surfboard."
+  },
+  {
+   "word": "fur",
+   "segs": [
+    "f",
+    "ur"
+   ],
+   "def": "Fur is the soft hair that covers an animal, like a cat or a bear.",
+   "ask": [
+    "Which animals have fur ?"
+   ],
+   "sentence": "My cat has soft, fluffy fur.",
+   "hasWriteImg": true,
+   "adultDef": "The soft, thick hair that covers some animals, like cats, dogs and bears."
+  },
+  {
+   "word": "curl",
+   "segs": [
+    "c",
+    "ur",
+    "l"
+   ],
+   "def": "A curl is a bend or a loop, like a curl in your hair.",
+   "ask": [
+    "What can curl up?"
+   ],
+   "sentence": "The puppy likes to curl up on my bed.",
+   "hasWriteImg": true,
+   "adultDef": "To bend round and round into a ring or a ball. Some hair grows in curls, and a cat can curl up to sleep."
+  }
+ ]
+}

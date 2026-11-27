@@ -1,0 +1,105 @@
+{
+ "target": {
+  "letter": "ir",
+  "name": "er",
+  "sound": "../vowels/g-ir.mp3",
+  "letters": [
+   "ir"
+  ],
+  "noun": "letters"
+ },
+ "words": [
+  {
+   "word": "bird",
+   "segs": [
+    "b",
+    "ir",
+    "d"
+   ],
+   "def": "A bird has feathers and wings. Most birds can fly and sing.",
+   "ask": [
+    "What rhymes with bird ?"
+   ],
+   "sentence": "We saw a colourful bird in the tree.",
+   "hasWriteImg": true,
+   "adultDef": "An animal with feathers, wings and a beak. Most birds can fly."
+  },
+  {
+   "word": "girl",
+   "segs": [
+    "g",
+    "ir",
+    "l"
+   ],
+   "def": "A girl is a young female person.",
+   "ask": [
+    "Can you name a girl in your class or family?"
+   ],
+   "sentence": "The girl next door has a new puppy.",
+   "hasWriteImg": true,
+   "adultDef": "A child who is female. A girl grows up to be a woman."
+  },
+  {
+   "word": "first",
+   "segs": [
+    "f",
+    "ir",
+    "s",
+    "t"
+   ],
+   "def": "First means number one, before all the others, like coming first in a race.",
+   "ask": [
+    "What comes after first ?"
+   ],
+   "sentence": "I came first in the race.",
+   "hasWriteImg": true,
+   "adultDef": "Before all the others – number 1. If you come first in a race, you win!"
+  },
+  {
+   "word": "shirt",
+   "segs": [
+    "sh",
+    "ir",
+    "t"
+   ],
+   "def": "A shirt is something you wear on the top half of your body. It often has buttons and a collar.",
+   "ask": [
+    "What colour is your favourite shirt ?"
+   ],
+   "sentence": "I wore a new shirt to school today.",
+   "hasWriteImg": true,
+   "adultDef": "Clothes you wear on the top half of your body, like a T-shirt or a school shirt."
+  },
+  {
+   "word": "dirt",
+   "segs": [
+    "d",
+    "ir",
+    "t"
+   ],
+   "def": "Dirt is soil or mud. You get dirt on your shoes when you play outside.",
+   "ask": [
+    "Where can you find dirt ?"
+   ],
+   "sentence": "My shoes were covered in dirt after footy.",
+   "hasWriteImg": true,
+   "adultDef": "Soil or earth, like in a garden. When dirt gets wet it turns into mud."
+  },
+  {
+   "word": "skirt",
+   "segs": [
+    "s",
+    "k",
+    "ir",
+    "t"
+   ],
+   "def": "A skirt is clothing that hangs from your waist. It has no legs.",
+   "ask": [
+    "What rhymes with skirt ?"
+   ],
+   "sentence": "She wore a blue skirt to the party.",
+   "hasWriteImg": true,
+   "adultDef": "Clothes that hang down from your waist. Some school uniforms have a skirt."
+  }
+ ]
+}
